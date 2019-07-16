@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node main.js",
+    "start": "npm run build",
     "build": "vue-cli-service build"
   },
   "dependencies": {
